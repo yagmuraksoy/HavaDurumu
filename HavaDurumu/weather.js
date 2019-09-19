@@ -1,4 +1,4 @@
-var OpenWeatherAppKey = "34019d6256e958c12ea7d05def98008e";
+var OpenWeatherAppKey = " "; //kendi key'inizi yazın
 
 function getWeatherWithZipCode() {
     var zipcode = $('#zip-code-input').val();
